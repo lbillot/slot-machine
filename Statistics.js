@@ -20,5 +20,3 @@ class Statistics {
     return [games, wins, losses];
   }
 }
-
-// const stats = new Statistics()
